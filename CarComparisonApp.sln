@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarComparisonApp", "CarComparison\CarComparisonApp.csproj", "{F3FBE31C-0595-416C-91E1-D5407281E2D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarComparisonTests", "CarComparisonTests\CarComparisonTests.csproj", "{DAD94C7A-365E-4986-AD2F-F563B0996445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3FBE31C-0595-416C-91E1-D5407281E2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FBE31C-0595-416C-91E1-D5407281E2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FBE31C-0595-416C-91E1-D5407281E2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FBE31C-0595-416C-91E1-D5407281E2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD94C7A-365E-4986-AD2F-F563B0996445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD94C7A-365E-4986-AD2F-F563B0996445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD94C7A-365E-4986-AD2F-F563B0996445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD94C7A-365E-4986-AD2F-F563B0996445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {309E6CAF-0E94-42D0-9A3E-69303D05D038}
+	EndGlobalSection
+EndGlobal

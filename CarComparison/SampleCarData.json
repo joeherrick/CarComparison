@@ -1,0 +1,47 @@
+[
+  {
+    "Make": "Honda",
+    "Model": "CRV",
+    "Color": "Green",
+    "Year": 2016,
+    "Price": 23845,
+    "TCCRating": 8,
+    "HwyMPG": 33
+  },
+  {
+    "Make": "Ford",
+    "Model": "Escape",
+    "Color": "Red",
+    "Year": 2017,
+    "Price": 23590,
+    "TCCRating": 7.8,
+    "HwyMPG": 32
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Sante Fe",
+    "Color": "Grey",
+    "Year": 2016,
+    "Price": 24950,
+    "TCCRating": 8,
+    "HwyMPG": 27
+  },
+  {
+    "Make": "Mazda",
+    "Model": "CX-5",
+    "Color": "Red",
+    "Year": 2017,
+    "Price": 21795,
+    "TCCRating": 8,
+    "HwyMPG": 35
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Forester",
+    "Color": "Blue",
+    "Year": 2016,
+    "Price": 22395,
+    "TCCRating": 8.4,
+    "HwyMPG": 32
+  }
+]
